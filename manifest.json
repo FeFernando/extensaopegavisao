@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Pega a visão",
+  "description": "Deixe que eu leio o texto para você",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting", "storage"],
+  
+  
+  "icons": {
+    "16": "vision16.png",
+    "48": "vision48.png",
+    "128": "vision128.png"
+  },
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "vision16.png",
+      "48": "vision48.png",
+      "128": "vision128.png"
+    }
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  }
+}
