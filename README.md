@@ -1,3 +1,6 @@
+
+<img width="128" height="128" alt="vision128" src="https://github.com/user-attachments/assets/e13ac36b-ffee-4b64-a6e8-ad35bdf4855e" />
+
 Pega a visão é uma extensão criada para promover inclusão e acessibilidade digital.
 
 Com apenas um clique, você pode ouvir em voz alta qualquer texto selecionado em sites, artigos, PDFs ou páginas da web. Ideal para:
